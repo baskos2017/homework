@@ -1,0 +1,20 @@
+[
+    {
+        "name": "\u0406\u043c'\u044f",
+        "surname": "\u041f\u0440\u0456\u0437\u0432\u0438\u0449\u0435",
+        "birth_date": "\u0414\u0430\u0442\u0430 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u044f",
+        "city": "\u041c\u0456\u0441\u0442\u043e \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u043d\u043d\u044f"
+    },
+    {
+        "name": "{'qwerty'}",
+        "surname": "asdfgh",
+        "birth_date": "11.12.2023",
+        "city": "pl"
+    },
+    {
+        "name": "asdfgh",
+        "surname": "qwerty",
+        "birth_date": "78.76.1111",
+        "city": "qw"
+    }
+]
